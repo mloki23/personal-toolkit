@@ -1,0 +1,7 @@
+pyshorteners
+psutil
+pytest
+qrcode
+Pillow
+speedtest-cli
+pytest_xprocess
